@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello, World! :)
 
 <!--
 **deboraaz/deboraaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 📫 Conecte-se comigo:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/debora-azevedo-b0502626a)
+[![Gmail](https://img.shields.io/badge/Lattes-003366?style=for-the-badge&logo=google-scholar&logoColor=white)](debor4zevedo@gmail.com)
