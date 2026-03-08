@@ -15,5 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Meu nome é Débora e atualmente estou no 8º período de Engenharia de Computação na UFES e estou sempre em busca de expandir meus conhecimentos e enfrentar novos desafios técnicos.
+
+Tenho domínio na linguagem C e em ferramentas de versionamento como Git/GitHub. Além disso, desenvolvi projetos utilizando Python, C++, C#, Assembly, Java, SQL e CSS, o que me deu uma visão versátil sobre diferentes paradigmas de programação.
+
+Participei de uma Iniciação Científica (IC) na área de IA aplicada à saúde, com foco em tornar modelos de Inteligência Artificial mais justos e confiáveis (Fairness & Explainability). Nessa experiência, utilizei ferramentas e conceitos como Scikit-learn, Machine Learning, Deep Learning, SHAP e DAGs.
+
 ### 📫 Conecte-se comigo:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/debora-azevedo-b0502626a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debora-azevedo-b0502626a)
